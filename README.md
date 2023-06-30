@@ -1,14 +1,14 @@
-<h1 style="text-align: center">Bank-Customer-Analysis</h1>
+<h1 align="center" color="#x1F34E;">Bank-Customer-Analysis</h1>
                                               
-**Introduction**
+🔘 **Introduction**
 
 "Analyzed dashboard and gathered valuable insights about customers' behavior and preferences, allowing bank to tailor their products and services to better meet customers needs and improve customer satisfaction." 
 
-**Aim of the study**
+🔘 **Aim of the study**
 
 The aim of this study is to utilize an analyzed dashboard to gain valuable insights into customers' behavior and preferences. By doing so, the bank intends to tailor its products and services in order to better meet the needs of its customers and ultimately improve customer satisfaction.
 
-**Data Description**
+🔘 **Data Description**
 
 Here is a breakdown of data field I have in a csv:
 
@@ -28,18 +28,18 @@ Here is a breakdown of data field I have in a csv:
 
 These fields collectively provide essential customer information that can be used to analyze and understand customers' behavior, preferences, and financial patterns. By utilizing this data, the bank can gain insights into customer demographics, financial trends, and potentially tailor their products and services to better meet the needs of their customers.
 
-**Methodolgy**
+🔘 **Methodolgy**
 
 The project involves collecting and processing Bank Customer data, and utilized Microsoft Power BI dashboard to gain insights which will helps to improve business of the bank.
 
-**Dashboard**
+🔘 **Dashboard**
 
 The dashboard presents an overview of customer demographics, allowing the bank to identify patterns and trends in terms of gender distribution, age groups, and regional representation. It provides insights into customers' job classifications, enabling the bank to understand the professional diversity among its clientele.
 
-**Visualizations**
+🔘 **Visualizations**
+<img src="" alt="">
 
-
-**Findings**
+🔘 **Findings**
 
 1. Number of customer joining improved from April in England & Scotland but decreased in Northern Ireland & Wales. Bank should find the factor behind the decrease in number of customer.
 2. Most of the customer belongs to 31-40 Age group, Bank should focus on attracting customers from other age group.
@@ -47,11 +47,11 @@ The dashboard presents an overview of customer demographics, allowing the bank t
 4. Bank has less number of customers from Wales & Northern Ireland. Bank should develop strategies to improve their business in these regions.
 5. Compared to the number of customers by job type, Female from Blue collar job type are in less ratio compared to others. Bank should bring some offer for females so that number of females will increase.
 
-**Summary**
+🔘 **Summary**
 
 The analysis conducted using Power BI on the provided dataset aimed to gain insights into customers' behavior and preferences. The dashboard showcased valuable information regarding customer demographics, job classifications, account balances, and other relevant data. These insights can assist the bank in tailoring its products and services to better meet customer needs, ultimately improving customer satisfaction and enhancing relationships.
 
-**Challenges Faced**
+🔘 **Challenges Faced**
 
 Encountered challenges such as data quality issues, noise value in the data, choosing proper charts, limited data dimensions.
 
