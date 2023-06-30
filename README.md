@@ -36,8 +36,15 @@ The project involves collecting and processing Bank Customer data, and utilized 
 
 The dashboard presents an overview of customer demographics, allowing the bank to identify patterns and trends in terms of gender distribution, age groups, and regional representation. It provides insights into customers' job classifications, enabling the bank to understand the professional diversity among its clientele.
 
-🔘 **Visualizations**
-<img src="" alt="">
+🔘 **Visualizations** <br>
+<img src="https://i.ibb.co/G9FYJkg/Total-Customers-by-Job-Type.png" alt="Total-Customers-by-Job-Type" border="0">
+<p>Most Customers belong to White Collar job Type & there is more difference in Male to Female ratio in Blue Collar Job Type</p>
+<img src="https://i.ibb.co/NyNt4cF/Customer-joined-by-months-in-regions.png" alt="Customer-joined-by-months-in-regions" border="0">
+<p>There is a significant change in customer acquisation from March but the number of customer joining is reducing from May in Wales & North Ireland</p>
+<img src="https://i.ibb.co/n06tFYv/Customers-by-Age-gender.png" alt="Customers-by-Age-gender" border="0">
+<p>Most of the customers belong to age group of "31yrs-40yrs" & similar distribution for "21yrs-30yrs" & "41-yrs to 50yrs" age group</p>
+<img src="https://i.ibb.co/BqZs7yQ/Total-Customers-by-Region.png" alt="Total-Customers-by-Region" border="0">
+<p>More belong of customer belongs to England & Scotland region</p>
 
 🔘 **Findings**
 
