@@ -1,4 +1,4 @@
-                                               **Bank-Customer-Analysis **
+<h1 style="text-align: center">Bank-Customer-Analysis</h1>
                                               
 **Introduction**
 
