@@ -33,7 +33,7 @@ These fields collectively provide essential customer information that can be use
 The project involves collecting and processing Bank Customer data, and utilized Microsoft Power BI dashboard to gain insights which will helps to improve business of the bank.
 
 🔘 **Dashboard**
-
+<img src="https://i.ibb.co/DWwtGdY/Dashboard.png" alt="Dashboard" border="0">
 The dashboard presents an overview of customer demographics, allowing the bank to identify patterns and trends in terms of gender distribution, age groups, and regional representation. It provides insights into customers' job classifications, enabling the bank to understand the professional diversity among its clientele.
 
 🔘 **Visualizations** <br>
