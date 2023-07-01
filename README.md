@@ -46,7 +46,6 @@ The methodology for the analysis consist of following steps:
 
 🔘 **Dashboard**
 
-<img src="https://drive.google.com/file/d/1xaFyq5VSgz03koK4wuzMrQ1h6U-QE4t_/view?usp=sharing" alt="Bank-Customer-Dashboard" border="0">
 
 The dashboard presents an overview of customer demographics, allowing the bank to identify patterns and trends in terms of gender distribution, age groups, and regional representation. It provides insights into customers' job classifications, enabling the bank to understand the professional diversity among its clientele.
 
