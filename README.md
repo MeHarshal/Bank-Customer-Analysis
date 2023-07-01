@@ -64,7 +64,7 @@ The analysis utilizing Power BI on the provided dataset focused on understanding
 
 🔘 **Challenges Faced**
 
-During the project, I have encountered challenges such as data quality issues, data integration complexities, and privacy and security concerns. Additionally, interpreting the data without proper context and dealing with limited data dimensions could have posed challenges. Overcoming these obstacles required careful data preprocessing, a comprehensive understanding of the dataset and business context, and effective collaboration with stakeholders.
+During the analysis, I have encountered challenges such as data quality issues, data integration complexities, and privacy and security concerns. Additionally, interpreting the data without proper context and dealing with limited data dimensions could have posed challenges. Overcoming these obstacles required careful data preprocessing, a comprehensive understanding of the dataset and business context, and effective collaboration with stakeholders.
 
 
 
