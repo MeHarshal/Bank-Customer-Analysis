@@ -34,13 +34,24 @@ These fields collectively provide essential customer information that can be use
 
 🔘 **Methodolgy**
 
-The project involves collecting and processing Bank Customer data, and utilized Microsoft Power BI dashboard to gain insights which will helps to improve business of the bank.
+The methodology for the analysis consist of following steps:
+
+1. Data Collection and Preparation: Gather and preprocess the relevant customer data, ensuring data cleanliness and consistency.
+
+2. Data Visualization: Utilize Power BI to create visually appealing charts, graphs, and tables that present the customer data effectively.
+
+3. Dashboard Development: Organize and arrange the visualizations in a logical manner, incorporating interactive features and filters for user exploration.
+
+4. Insights and Trends: Analyze the visualized data to identify patterns, trends, and insights about customer behavior, preferences, and needs.
 
 🔘 **Dashboard**
+
 <img src="https://i.ibb.co/DWwtGdY/Dashboard.png" alt="Dashboard" border="0">
+
 The dashboard presents an overview of customer demographics, allowing the bank to identify patterns and trends in terms of gender distribution, age groups, and regional representation. It provides insights into customers' job classifications, enabling the bank to understand the professional diversity among its clientele.
 
 🔘 **Visualizations** <br>
+
 <img src="https://i.ibb.co/G9FYJkg/Total-Customers-by-Job-Type.png" alt="Total-Customers-by-Job-Type" border="0">
 <p>Most Customers belong to White Collar job Type & there is more difference in Male to Female ratio in Blue Collar Job Type</p>
 <img src="https://i.ibb.co/NyNt4cF/Customer-joined-by-months-in-regions.png" alt="Customer-joined-by-months-in-regions" border="0">
