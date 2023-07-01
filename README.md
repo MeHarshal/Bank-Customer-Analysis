@@ -8,6 +8,10 @@
 
 The aim of this study is to utilize an analyzed dashboard to gain valuable insights into customers' behavior and preferences. By doing so, the bank intends to tailor its products and services in order to better meet the needs of its customers and ultimately improve customer satisfaction.
 
+🔘 **Data Source**
+
+The data source for this analysis is a dataset of bank customer information downloaded from Kaggle.com. The dataset includes fields such as name, gender, age, region, job classification, balance, and account opening data. It provides a comprehensive source of data for analyzing and understanding customer behavior and preferences in the banking industry.
+
 🔘 **Data Description**
 
 Here is a breakdown of data field I have in a csv:
@@ -56,11 +60,11 @@ The dashboard presents an overview of customer demographics, allowing the bank t
 
 🔘 **Summary**
 
-The analysis conducted using Power BI on the provided dataset aimed to gain insights into customers' behavior and preferences. The dashboard showcased valuable information regarding customer demographics, job classifications, account balances, and other relevant data. These insights can assist the bank in tailoring its products and services to better meet customer needs, ultimately improving customer satisfaction and enhancing relationships.
+The analysis utilizing Power BI on the provided dataset focused on understanding customer behavior and preferences. The generated dashboard presented key information on customer demographics, job classifications, account balances, and other pertinent data. These insights can empower the bank to personalize their offerings and enhance customer satisfaction by aligning their products and services with customer needs and preferences.
 
 🔘 **Challenges Faced**
 
-Encountered challenges such as data quality issues, noise value in the data, choosing proper charts, limited data dimensions.
+During the project, I have encountered challenges such as data quality issues, data integration complexities, and privacy and security concerns. Additionally, interpreting the data without proper context and dealing with limited data dimensions could have posed challenges. Overcoming these obstacles required careful data preprocessing, a comprehensive understanding of the dataset and business context, and effective collaboration with stakeholders.
 
 
 
